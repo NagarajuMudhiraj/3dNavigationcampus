@@ -10,7 +10,3 @@ This repository is **not licensed** for reuse.
 All rights reserved.  
 This code is shared publicly **for viewing purposes only**.  
 **You are not allowed to copy, use, modify, or redistribute** this code without explicit permission.
-
-## 📌 Project Purpose
-
-This is part of an academic project to help visualize 3D navigation in a college environment.
